@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EyasuTesfu
+- 👋 Hi, I’m Joshua Tesfaye
 - 👀 I’m interested in Full Stack Development in areas of web and mobile development plus I enjoy Competitive Progarmming
 - 🌱 I’m currently learning Software Engineering at Addis Ababa Institute of Technology
 - 💞️ I’m looking to collaborate on Web and App Development projects
