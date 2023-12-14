@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joshua Tesfaye</h1>
 <h3 align="center">A passionate Mobile and Backend Developer</h3>
-<iframe src="https://giphy.com/embed/l2R0cvMrULqv6se4M" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/creative-coding-libcinder-100days-l2R0cvMrULqv6se4M">via GIPHY</a></p>
-<!-- <img align = "right" alt = "Code" width = "400" src = "https://media.giphy.com/media/l2R0cvMrULqv6se4M/giphy.gif"/> -->
+<img align = "right" alt = "Code" width = "400" src = "https://media.giphy.com/media/l2R0cvMrULqv6se4M/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyasutesfu&label=Profile%20views&color=0e75b6&style=flat" alt="eyasutesfu" /> </p>
 
