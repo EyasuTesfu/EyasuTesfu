@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [coorDonate](https://github.com/Nsustain/CoorDONATE-App/)
 
-- 🌱 I’m currently learning **Unreal Engine**
+- 🌱 I’m currently learning **Unity**
 
 - 👯 I’m looking to collaborate on **Flutter and Backend**
 
