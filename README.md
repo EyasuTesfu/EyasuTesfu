@@ -4,17 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyasutesfu&label=Profile%20views&color=0e75b6&style=flat" alt="eyasutesfu" /> </p>
 
-- 🔭 I’m currently working on [coorDonate](https://github.com/Nsustain/CoorDONATE-App/)
-
 - 🌱 I’m currently learning **Unity**
 
 - 👯 I’m looking to collaborate on **Flutter and Backend**
 
-- 👨‍💻 All of my projects are available at [https://eyasutesfu.github.io/Portfolio-Website/](https://eyasutesfu.github.io/Portfolio-Website/)
-
 - 💬 Ask me about **Flutter and Django**
 
-- 📫 How to reach me **tesfujosh@gmail.com**
+- 📫 How to reach me **joshuatesfaye91@gmail.com**
 
 - ⚡ Fun fact **I like to play Chess, Guitar and enjoy Swimming**
 
