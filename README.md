@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Tesfaye</h1>
-<h3 align="center">A passionate FullStack Developer, Expertise in Python, AI/ML, Flutter, React, node js</h3>
+<h3 align="center">A passionate FullStack Developer, Expertise in Python, AI/ML, Flutter, React, Angular, node js</h3>
 <img align = "right" alt = "Code" width = "400" src = "https://media.giphy.com/media/l2R0cvMrULqv6se4M/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyasutesfu&label=Profile%20views&color=0e75b6&style=flat" alt="eyasutesfu" /> </p>
